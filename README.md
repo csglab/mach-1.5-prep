@@ -19,5 +19,5 @@ The final output is a split dataset in `.jsonl.zst` compressed format compatible
 
 ---
 
-For training with Mach-1.5, see [`mach-1.5-savanna`](https://github.com/goodarzilab/mach-1.5-savanna).
+For training with Mach-1.5, see [`goodarzilab/mach-1.5-savanna`](https://github.com/goodarzilab/mach-1.5-savanna).
 
